@@ -1,0 +1,20 @@
+#span1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:red;
+}
+#div1{
+   font-size:35px;
+   bottom:0;
+   position:fixed;
+   text-align:center;
+   width:100%;
+}
+#bok{
+   font-size:25px;
+}
+body{
+   background-position: center;
+  background-size: cover;
+   background-image: url("https://media.istockphoto.com/photos/round-podium-or-pedestal-with-blue-background-picture-id1226478932?b=1&k=20&m=1226478932&s=170667a&w=0&h=hXsvxQilNanpKx7QC_tIsFUOKPl8fdIDfJ_QSKXesGE=");
+}
